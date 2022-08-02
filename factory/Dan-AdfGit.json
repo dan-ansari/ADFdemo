@@ -1,0 +1,9 @@
+{
+	"name": "Dan-AdfGit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a94a1243-103f-4fbb-acb7-3f99a901b360",
+		"tenantId": "9f0f3adb-9437-402d-aea2-ec891dc2c1db"
+	}
+}
